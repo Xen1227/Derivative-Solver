@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Derivative Solver.cpp
+c:\users\xavier\documents\visual studio 2017\projects\derivative solver\derivative solver\derivative solver.cpp(906): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavier\documents\visual studio 2017\projects\derivative solver\derivative solver\derivative solver.cpp(912): warning C4018: '<': signed/unsigned mismatch
+  Derivative Solver.vcxproj -> C:\Users\Xavier\Documents\Visual Studio 2017\Projects\Derivative Solver\Debug\Derivative Solver.exe
